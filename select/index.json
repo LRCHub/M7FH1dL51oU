@@ -1,0 +1,16 @@
+{
+  "version": 1,
+  "base_track": "泥の分際で私だけの大切を奪おうだなんて",
+  "base_artist": "ツユ",
+  "createdAt": "2026-02-22T16:43:33.444638Z",
+  "candidates": [
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "泥の分際で私だけの大切を奪おうだなんて",
+      "artist": "ツユ",
+      "has_synced": false,
+      "path": "select/pl_01_泥の分際で私だけの大切を奪おうだなんて_ツユ.txt"
+    }
+  ]
+}
